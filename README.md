@@ -1,6 +1,6 @@
-# diabetesPredictionDeployment
+# Diabetes Prediction Web App
 
-Application that can help predict whether a woman has diabetes or not
+An innovative Machine Learning application tailored to accurately predict a woman's risk of developing diabetes, empowering individuals with valuable health insights.
 
 ### Configure
 
